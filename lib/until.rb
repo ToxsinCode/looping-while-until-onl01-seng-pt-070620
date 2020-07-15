@@ -4,3 +4,4 @@ def using_until
     puts "Wingardium Leviosa"
     levitation += 1
   end
+end
